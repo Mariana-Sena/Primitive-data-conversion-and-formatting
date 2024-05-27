@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.42">
+<file name="/home/mariana.sena/Downloads/SPTSMS_926/src/main/java/org/example/Main.java">
+</file>
+<file name="/home/mariana.sena/Downloads/SPTSMS_926/src/main/java/org/example/datatype/Double.java">
+</file>
+<file name="/home/mariana.sena/Downloads/SPTSMS_926/src/main/java/org/example/datatype/Char.java">
+</file>
+<file name="/home/mariana.sena/Downloads/SPTSMS_926/src/main/java/org/example/datatype/Boolean.java">
+</file>
+<file name="/home/mariana.sena/Downloads/SPTSMS_926/src/main/java/org/example/datatype/Int.java">
+</file>
+<file name="/home/mariana.sena/Downloads/SPTSMS_926/src/main/java/org/example/datatype/Float.java">
+</file>
+<file name="/home/mariana.sena/Downloads/SPTSMS_926/src/main/java/org/example/dateandtime/Formatting2.java">
+</file>
+<file name="/home/mariana.sena/Downloads/SPTSMS_926/src/main/java/org/example/dateandtime/Formatting3.java">
+</file>
+<file name="/home/mariana.sena/Downloads/SPTSMS_926/src/main/java/org/example/dateandtime/Formatting1.java">
+</file>
+<file name="/home/mariana.sena/Downloads/SPTSMS_926/src/main/java/org/example/primitivestostring/PrimitiveToString.java">
+</file>
+<file name="/home/mariana.sena/Downloads/SPTSMS_926/src/main/java/org/example/stringtoprimitives/StringToDouble.java">
+</file>
+<file name="/home/mariana.sena/Downloads/SPTSMS_926/src/main/java/org/example/stringtoprimitives/StringToInt.java">
+</file>
+<file name="/home/mariana.sena/Downloads/SPTSMS_926/src/main/java/org/example/stringtoprimitives/StringToBoolean.java">
+</file>
+<file name="/home/mariana.sena/Downloads/SPTSMS_926/src/main/java/org/example/stringtoprimitives/StringToFloat.java">
+</file>
+<file name="/home/mariana.sena/Downloads/SPTSMS_926/src/main/java/org/example/stringtoprimitives/StringToChar.java">
+</file>
+<file name="/home/mariana.sena/Downloads/SPTSMS_926/src/main/java/org/example/currencyformatting/MonetaryValues.java">
+</file>
+</checkstyle>
